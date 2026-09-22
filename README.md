@@ -12,17 +12,19 @@ I build practical cybersecurity tools and develop my skills through hands-on dev
 
 **Scryx** is a focused web reconnaissance CLI for authorized security work.
 
-It combines bounded same-host crawling, URL analysis, HTTP checks, scope controls, and structured reporting in a simple terminal workflow designed for practical security testing.
+It combines bounded same-host crawling, URL analysis, Recon Intelligence, a route-level Recon Map, HTTP checks, scope controls, and structured reporting in a simple terminal workflow designed for practical security testing.
 
-**Current release:** `v1.0.1`
+**Current release:** `v1.1.1`
 
 **Highlights**
 - Bounded same-host crawling
 - URL and parameter analysis
+- Recon Intelligence with factual leads and suggested next steps
+- Route-level Recon Map with observed parameters and URL counts
 - Controlled HTTP status and redirect checks
 - Scope restrictions and conservative defaults
 - JSON, CSV, and human-readable TXT reports
-- Kali Linux friendly workflow
+- Kali Linux friendly workflow with restrained terminal color highlighting
 - Automated testing with GitHub Actions
 
 [View Scryx](https://github.com/Deeb-M/Scryx) · [Read the User Guide](https://github.com/Deeb-M/Scryx/blob/main/USER_GUIDE.md)
