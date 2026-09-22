@@ -14,7 +14,7 @@ I build practical cybersecurity tools and develop my skills through hands-on dev
 
 It combines bounded same-host crawling, URL analysis, Recon Intelligence, a route-level Recon Map, HTTP checks, scope controls, and structured reporting in a simple terminal workflow designed for practical security testing.
 
-**Current release:** `v1.1.1`
+**Current release:** `v1.1.2`
 
 **Highlights**
 - Bounded same-host crawling
